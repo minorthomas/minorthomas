@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minorthomas&label=Profile%20views&color=0e75b6&style=flat" alt="minorthomas" /> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS & Redux**
 
 - 👨‍💻 All of my projects are available at [Soon](Soon)
 
